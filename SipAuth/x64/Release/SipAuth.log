@@ -1,0 +1,8 @@
+﻿  SipAuth.cpp
+C:\Users\diesi\Documents\Sip\SipAuth\Util.h(26,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating code
+  32 of 302 functions (10.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SipAuth.vcxproj -> C:\Users\diesi\Documents\Sip\x64\Release\SipAuth.exe
