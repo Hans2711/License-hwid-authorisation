@@ -10,5 +10,6 @@
  - Please notice that this kind of connecting to a mysql server is not very secure because without proper protection dumping the login credentials or sql injection attacks are common.(But with some minor thweaks and a proper obfuscation and packing it should be fine)
  - Im sorry that there are no comments in the code.
  - the Generator always has to be in the home directory even tho it doesnt build to that directory.
- - If add to the Generator code so taht he safes those files somewhere else with a random name you can speed up the process a lot.
+ - You can tweak the Generator's code so taht he safes those files somewhere else with a random name you can speed up the process a lot.
+ - I know those dll's are gay af but you can use for example xbundler in themida to get rif of those.
  
